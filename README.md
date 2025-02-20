@@ -1,7 +1,3 @@
-Voici la version modifiée en français en prenant en compte que les fichiers audio initiaux sont en **WMA ou WAV** et non en MP3. 😊  
-
----
-
 # **Projet de Compression Audio IRM**  
 
 ## **Présentation**  
